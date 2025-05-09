@@ -1,4 +1,6 @@
 ![Overview](https://github.com/user-attachments/assets/4e7c4ae7-a7d8-4564-90a4-a1071cc60f71)
+
+
 This Power BI project presents an in-depth sales analysis of a fictional pizza business using one year of transaction data. The aim of this report is to uncover sales patterns, customer preferences, and profitability trends by analyzing and visualizing data from multiple related CSV files.
 
 **Data Sources:**
